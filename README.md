@@ -37,9 +37,4 @@ I'm a beginner, graduated in system analysis and development, and currently trai
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=AllandoAlmeida&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllandoALmeida&show_icons=true&theme=transparent)
 
-```plaintext
-www.kibum.com.br/stacks
-www.kibum.com.br/icons
-www.kibum.com.br/emoji
-www.kibum.com.br/stats
 
