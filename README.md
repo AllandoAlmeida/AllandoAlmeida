@@ -1,4 +1,4 @@
-# Hi there 👋
+# Welcome! It's a pleasure to have you here 👋
 
 I'm Alando Almeida, a passionate software developer and technology enthusiast. Currently I have dedicated myself to Software Developer based on my learning. </br>
 I'm a beginner, graduated in system analysis and development, and currently trained in the free course at Kenzie Acadamy Brasil, I had the opportunity to develop several interesting projects and explore different technologies.
