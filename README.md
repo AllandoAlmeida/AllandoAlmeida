@@ -42,6 +42,4 @@ I'm a beginner, graduated in system analysis and development, and currently trai
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AllandoAlmeida&theme=neon&hide_border=false"  width="400px" />
 
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=AllandoAlmeida&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllandoALmeida&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllandoALmeida&show_icons=true&theme=transparent)
