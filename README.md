@@ -1,5 +1,9 @@
 # Hi there 👋
 
+I'm Alando Almeida, a passionate software developer and technology enthusiast. Currently I have dedicated myself to Software Developer based on my learning. </br>
+I'm a beginner, graduated in system analysis and development, and currently trained in the free course at Kenzie Acadamy Brasil, I had the opportunity to develop several interesting projects and explore different technologies.
+
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -39,5 +43,5 @@
 
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=AllandoAlmeida&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllandoALmeida&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllandoALmeida&show_icons=true&theme=transparent)
