@@ -1,7 +1,7 @@
-# Welcome! It's a pleasure to have you here 👋
+# Bem-vindo! É um prazer ter você aqui 👋
 
-I'm Alando Almeida, a passionate software developer and technology enthusiast. Currently I have dedicated myself to Software Developer based on my learning. </br>
-I'm a beginner, graduated in system analysis and development, and currently trained in the free course at Kenzie Acadamy Brasil, I had the opportunity to develop several interesting projects and explore different technologies.
+Sou Alando Almeida, um apaixonado desenvolvedor de software e entusiasta de tecnologia. Atualmente tenho me dedicado a Desenvolvedor de Software com base no meu aprendizado. </br>
+Sou iniciante, formado em análise e desenvolvimento de sistemas, pós Graduação em Desenvolvimento full Stack Web e atualmente capacitando em desenvolvimento Full Stack Web no curso livre da Kenzie Acadamy Brasil, tive a oportunidade de desenvolver diversos projetos interessantes e explorar diferentes tecnologias.
 
 # 🌍 Tecnologies:
 
