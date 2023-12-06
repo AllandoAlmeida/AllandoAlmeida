@@ -52,3 +52,10 @@ Sou iniciante, formado em análise e desenvolvimento de sistemas, pós Graduaç�
 
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=AllandoAlmeida&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllandoALmeida&show_icons=true&theme=transparent)
+
+
+<!-- link para referencia:
+    https://github.com/alexandresanlim/Badges4-README.md-Profile?source=post_page-----6eb119218c4--------------------------------
+    https://github.com/alexandresanlim/Badges4-README.md-Profile
+
+ -->
